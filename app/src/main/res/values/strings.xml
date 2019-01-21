@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="wind">сила ветра</string>
+    <string name="humidity">влажность</string>
+    <string name="pressure">давление</string>
+    <string name="language">Язык:</string>
+    <string name="style">Стиль:</string>
+</resources>
